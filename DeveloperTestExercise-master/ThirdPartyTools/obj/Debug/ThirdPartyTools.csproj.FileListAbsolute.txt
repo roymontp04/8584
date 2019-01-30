@@ -1,0 +1,4 @@
+C:\AA_Final Test\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+C:\AA_Final Test\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+C:\AA_Final Test\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+C:\AA_Final Test\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb

@@ -1,0 +1,8 @@
+C:\AA_Final Test\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.exe.config
+C:\AA_Final Test\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.exe
+C:\AA_Final Test\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.pdb
+C:\AA_Final Test\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\ThirdPartyTools.dll
+C:\AA_Final Test\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\ThirdPartyTools.pdb
+C:\AA_Final Test\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.csprojResolveAssemblyReference.cache
+C:\AA_Final Test\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.exe
+C:\AA_Final Test\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.pdb
